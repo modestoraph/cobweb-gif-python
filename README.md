@@ -1,6 +1,6 @@
 # 🕸️ Análise de Iterações Discretas via Cobweb Plot em Python
 
-Este repositório é dedicado a programas e projetos em Python.
+Este repositório é dedicado ao projeto cobweb feito em Python.
 
 ## Sobre o Projeto
 
@@ -29,12 +29,14 @@ O código está estruturado para separação de responsabilidades:
 
 O código está **funcionando como previsto** e de acordo com a teoria matemática. Originalmente, o projeto foi desenvolvido na plataforma **Google Colab** e está em processo de adaptação e otimização para este repositório no GitHub.
 
-**Este código ainda está sendo melhorado e otimizado.** Existem diversas melhorias planejadas para um funcionamento ainda melhor do código, incluindo:
+**Este código ainda está sendo melhorado e otimizado.**
+Existem diversas melhorias planejadas para um funcionamento ainda melhor do código, incluindo:
 
 1.  **Aprofundamento da Análise:** Inserir a análise detalhada de pontos periódicos e pontos fixos.
 2.  **Expansão da Biblioteca:** Inserir outras diversas funções dentro da classe `Funcao`.
 3.  **Melhoria Visual:** Aprimorar os gráficos e animações geradas.
-4.  **Integração Acadêmica:** Inserção e expansão como parte do Trabalho de Conclusão de Curso (TCC).
+4.  **Referências:** Inserir todas as referências usadas até o momento e futuras.
+5.  **Integração Acadêmica:** Inserção e expansão como parte do Trabalho de Conclusão de Curso (TCC).
 
 ---
 

@@ -23,7 +23,7 @@ O código está estruturado para separação de responsabilidades:
 
 * **`arqs/Funcoes/funcoes.py`**: Contém a classe `Funcao` com as diversas funções analisadas (Logística, Reta, Raiz Quadrada, Cosseno, Expansora).
 * **`arqs/Cobweb/cobweb.py`**: Contém a lógica de cálculo dos iterados e a construção visual do Cobweb Plot e suas animações.
-* **`arqs/Main/menu_main.py`**: A interface principal do programa que interage com o usuário, compila e executa as funções dos módulos.
+* **`arqs/Menu_main/menu_main.py`**: A interface principal do programa que interage com o usuário, compila e executa as funções dos módulos.
 
 ## Status do Projeto e Melhorias Futuras
 
